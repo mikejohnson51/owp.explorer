@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "registry.hub.docker.com/mikecp11/owp.explore:0.1"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "3838",
+      "HostPort": "3838"
+    }
+  ]
+}
